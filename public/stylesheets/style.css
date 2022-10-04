@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 25px "Comic Sans MS", Helvetica, Arial, sans-serif;
+  background-color: cyan;
+}
+
+h1 {
+	color: #CC1111;
+}
+
+h2 {
+	color: #660066;
+}
+
+p {
+  color: #CC77DD;
+}
